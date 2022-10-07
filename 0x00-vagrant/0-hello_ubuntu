@@ -1,1 +1,2 @@
 Prints system information
+echo 'Linux'
